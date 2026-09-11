@@ -9,8 +9,11 @@ featuring : **Dropout** and **BatchNorm**
 
 
 # results
+Works kinda well, to improve it further I would use data augmentation :
+
+
 pred : automobile with probability : 0.96, correct class : automobile
 
-<img src="./img/output.png" width="600">
+<img src="./output.png" width="400">
 
 
